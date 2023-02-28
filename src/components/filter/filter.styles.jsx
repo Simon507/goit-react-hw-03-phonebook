@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const FindBlock = styled.div`
   align-items: center;
   display: flex;
-  padding: 20px;
+  padding: 25px;
   gap: 30px;
 `;
 
